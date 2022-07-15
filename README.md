@@ -1,13 +1,33 @@
 # Landing Page Project
 
-## Table of Contents
+This is my first project, and I desire to achieve success in the usage of the gear that I discovered to put in force what's required of me on this project.
 
-* [Instructions](#instructions)
+## Table of what I did in this project
 
-## Instructions
+* I made some changes in the HTML and CSS file.
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+* I have added the sections via JavaScript.
 
-To get started, open `js/app.js` and start building out the app's functionality
+* I created a function to create a link for each section with the navbar.
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+* I have added an active state to the navigation elements when the section is in the viewport.
+
+* I have highlighted the referred section in navbar.
+
+* I made a button to create additional sections.
+
+* I made a button to remove the last sections.
+
+* I made smooth scrolling with CSS.
+
+* I made an icon to go to the top of the page.
+
+------------------------------------
+
+## Sources i used
+
+    https://developer.mozilla.org/en-US/docs/Glossary/Viewport
+    https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect
+    https://www.w3schools.com/howto/howto_js_scroll_to_top.asp
+
+
